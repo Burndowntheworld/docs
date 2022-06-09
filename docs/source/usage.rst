@@ -8,9 +8,7 @@ Installation
 
 To use BurnLang, first install it using git:
 
-.. code-block:: console
-
-   (.venv) $ git install ur mom
+`_Installation <https://github.com/Burndowntheworld/docs/edit/main/docs/source/usage.rst>_`
 
 Creating recipes
 ----------------
