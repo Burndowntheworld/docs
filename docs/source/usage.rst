@@ -8,7 +8,7 @@ Installation
 
 To use BurnLang, first install it using git:
 
-`Installation <https://github.com/Burndowntheworld/docs/edit/main/docs/source/usage.rst>`
+`Installation <https://github.com/Burndowntheworld/docs/edit/main/docs/source/usage.rst>`_
 
 Creating recipes
 ----------------
