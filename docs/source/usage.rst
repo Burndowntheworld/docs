@@ -8,13 +8,14 @@ Installation
 
 To use BurnLang, first install it using git:
 
-`Installation <https://github.com/Burndowntheworld/docs/edit/main/docs/source/usage.rst>`_
+`Installation Page <https://github.com/Burndowntheworld/docs/edit/main/docs/source/usage.rst>`_
 
-Creating recipes
+running *.burn
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+.. console:: 
+
+e
 
 .. autofunction:: lumache.get_random_ingredients
 
