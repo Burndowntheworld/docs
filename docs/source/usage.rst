@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use BurnLang, first install it using git:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ git install ur mom
 
 Creating recipes
 ----------------
